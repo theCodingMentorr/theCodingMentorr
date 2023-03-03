@@ -7,8 +7,3 @@
 
 <h3 align="center">Programming Langauges I want to Learn </h3>
 <br/>
-<h4 align="center">NODEJS</h4>
-<br/>
-<h4 align="center">NextJS</h4> 
-<br/>
-<h4 align="center">ReactJS</h4>
