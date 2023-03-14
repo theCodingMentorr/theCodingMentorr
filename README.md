@@ -3,10 +3,10 @@
 <h3>
     
     ## Currently Learning
-    - HTML
-    - CSS
-    - JS
-    - MongoDB
-    - Node.js
-
+    - C#
+    - Assembly
+    - ASP.NET
+    - Window Forms Apps
+    - C++
+    
 </h3>
