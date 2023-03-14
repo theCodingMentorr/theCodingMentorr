@@ -2,7 +2,7 @@
 
 <h3>Currently Learning 
 
-<h3 align="center">
+<h3>
  
     - HTML
     - CSS
